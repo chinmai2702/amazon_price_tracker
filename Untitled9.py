@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
 
 
 from tkinter import *
@@ -147,10 +143,3 @@ btn = Button(window, text="Click Here", command=clicked)
 btn.grid(column=6, row=10)
 
 window.mainloop()
-
-
-# In[ ]:
-
-
-
-
